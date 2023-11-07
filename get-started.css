@@ -1,0 +1,467 @@
+.bg10,
+.job4,
+.lyn4 {
+  position: absolute;
+  left: 0;
+}
+.bg10 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--black);
+}
+.job4,
+.lyn4 {
+  top: 6.38%;
+  line-height: 44px;
+}
+.job4 {
+  height: 76.6%;
+  width: 49.51%;
+  top: 0;
+  left: 50.49%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-courgette);
+  display: inline-block;
+}
+.lyn-parent1 {
+  position: absolute;
+  height: 11.69%;
+  width: 6.87%;
+  top: 20.65%;
+  right: 85.8%;
+  bottom: 67.66%;
+  left: 7.33%;
+}
+.secondary-button-text2 {
+  position: relative;
+  font-weight: 500;
+}
+.input2,
+.secondary-button2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  border-radius: var(--br-9xs);
+  box-sizing: border-box;
+}
+.secondary-button2 {
+  width: 25%;
+  right: 0;
+  left: 75%;
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-13xl);
+}
+.input2 {
+  width: 83.82%;
+  right: 16.18%;
+  left: 0;
+  border: 1px solid var(--color-aliceblue);
+}
+.your-email2 {
+  position: absolute;
+  top: 34.38%;
+  left: 4.41%;
+  color: var(--color-aliceblue);
+  text-align: left;
+  opacity: 0.8;
+}
+.form-field2 {
+  position: absolute;
+  height: 30.77%;
+  width: 100%;
+  top: 69.23%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.subscribe-to-get2 {
+  position: absolute;
+  width: 80.88%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+}
+.form2 {
+  position: absolute;
+  height: 51.74%;
+  width: 36.27%;
+  top: 23.88%;
+  right: 7.33%;
+  bottom: 24.38%;
+  left: 56.4%;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--primary-text);
+}
+.about-us5,
+.contact5,
+.team2,
+.what-we-do7 {
+  position: absolute;
+  top: 89.52%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+  cursor: pointer;
+}
+.about-us5,
+.team2,
+.what-we-do7 {
+  top: 67.62%;
+}
+.about-us5,
+.team2 {
+  top: 45.71%;
+}
+.about-us5 {
+  top: 23.81%;
+}
+.home5,
+.our-team2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.home5 {
+  font-size: var(--font-size-base);
+  line-height: 160%;
+}
+.our-team2 {
+  height: 100%;
+  width: 20.22%;
+  right: 79.78%;
+  bottom: 0;
+}
+.events2,
+.projects2 {
+  position: absolute;
+  top: 45.71%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.projects2 {
+  top: 23.81%;
+}
+.more4 {
+  position: absolute;
+  height: 100%;
+  width: 14.21%;
+  top: 0;
+  right: 41.53%;
+  bottom: 0;
+  left: 44.26%;
+}
+.linkdin2,
+.twitter2 {
+  position: absolute;
+  top: 89.52%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.twitter2 {
+  top: 67.62%;
+}
+.connect4,
+.links2 {
+  position: absolute;
+  height: 100%;
+  width: 17.49%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 82.51%;
+}
+.links2 {
+  height: 52.24%;
+  width: 24.4%;
+  top: 23.88%;
+  right: 53.13%;
+  bottom: 23.88%;
+  left: 22.47%;
+  font-size: var(--font-size-sm);
+}
+.footer2 {
+  position: absolute;
+  top: 954px;
+  left: 0;
+  width: 1500px;
+  height: 402px;
+  font-size: var(--font-size-5xl);
+}
+.our-mission-section-child {
+  position: absolute;
+  top: 69px;
+  right: 0;
+  background-color: rgba(184, 239, 213, 0.83);
+  width: 1500px;
+  height: 867px;
+}
+.saly-31-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.saly-31 {
+  position: absolute;
+  top: 241px;
+  left: 450px;
+  width: 600px;
+  height: 381.6px;
+}
+.select-your-role {
+  position: absolute;
+  top: 623px;
+  right: 412px;
+  line-height: 120%;
+}
+.saly-1,
+.saly-37,
+.saly-44 {
+  position: absolute;
+  top: 690px;
+  left: 1034px;
+  width: 220px;
+  height: 186.3px;
+}
+.saly-1,
+.saly-37 {
+  top: 686px;
+  left: 249px;
+  width: 250px;
+  height: 249.7px;
+}
+.saly-1 {
+  top: 0;
+  left: 1050px;
+  width: 450px;
+  height: 550.5px;
+}
+.our-mission-section {
+  position: absolute;
+  top: 18px;
+  right: 0;
+  width: 1500px;
+  height: 936px;
+  font-size: 70px;
+  color: #253935;
+}
+.get-started-child {
+  position: absolute;
+  top: -5px;
+  left: 1309px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 100px;
+  height: 100px;
+}
+.button-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-lightseagreen-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.get-started2 {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 63px);
+}
+.button-child1,
+.button1 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.button1 {
+  top: 750px;
+  left: 780px;
+  width: 308px;
+  height: 72px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-whitesmoke);
+  font-family: var(--font-inter);
+}
+.button-child1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-lightseagreen-200);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.get-started3 {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 60px);
+}
+.button2 {
+  position: absolute;
+  top: 750px;
+  left: 402px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 308px;
+  height: 72px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-whitesmoke);
+  font-family: var(--font-inter);
+}
+.saly-6-icon {
+  position: absolute;
+  height: 102.87%;
+  width: 90.46%;
+  top: -3.06%;
+  right: -0.17%;
+  bottom: 0.19%;
+  left: 9.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.are-you-a {
+  margin:15px;
+  text-align: center;
+}
+.are-you-a::first-line {
+  margin-top: 12px;
+}
+
+.are-you-a-container,
+.saly-6-parent {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.are-you-a-container {
+  height: 25.00%;
+  width: 46.71%;
+  top: 29.60%;
+  left: 50.00%;
+  line-height: 90%;
+  display: inline-block;
+  transform: rotate(-24.27deg);
+}
+.saly-6-parent {
+  height: 42.15%;
+  width: 46%;
+  top: 4.07%;
+  right: 58.47%;
+  bottom: 53.78%;
+  left: -4.47%;
+  transform: rotate(-1.56deg);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-simonetta);
+}
+.job5,
+.lyn5 {
+  position: absolute;
+  top: 3.3%;
+  left: 0;
+  line-height: 44px;
+}
+.job5 {
+  height: 63.74%;
+  width: 50%;
+  top: 0;
+  left: 50%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-courgette);
+  display: inline-block;
+}
+.lyn-parent2 {
+  position: relative;
+  width: 98px;
+  height: 45.5px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.home6 {
+  color: var(--black);
+}
+.about-us6,
+.home6 {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.nav-link3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-xl);
+  gap: var(--gap-21xl);
+  color: var(--secondary-text);
+}
+.nav-button2,
+.navbar3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.nav-button2 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslateblue-300);
+  align-items: flex-start;
+  padding: var(--padding-xs) var(--padding-13xl);
+  text-align: right;
+  color: var(--color-white);
+}
+.navbar3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  backdrop-filter: blur(30px);
+  border-bottom: 1px solid var(--color-gray-500);
+  align-items: center;
+  padding: var(--padding-lg) var(--padding-91xl);
+  gap: var(--gap-252xl);
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.get-started1 {
+  position: relative;
+  background-color: var(--bg);
+  width: 100%;
+  height: 1356px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+  font-family: var(--h2);
+}

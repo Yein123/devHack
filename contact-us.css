@@ -1,0 +1,601 @@
+.bg13,
+.job8,
+.lyn8 {
+  position: absolute;
+  left: 0;
+}
+.bg13 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--black);
+}
+.job8,
+.lyn8 {
+  top: 6.38%;
+  line-height: 44px;
+}
+.job8 {
+  height: 76.6%;
+  width: 49.51%;
+  top: 0;
+  left: 50.49%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-courgette);
+  display: inline-block;
+}
+.lyn-parent5 {
+  position: absolute;
+  height: 11.69%;
+  width: 6.87%;
+  top: 20.65%;
+  right: 85.8%;
+  bottom: 67.66%;
+  left: 7.33%;
+}
+.secondary-button-text4 {
+  position: relative;
+  font-weight: 500;
+}
+.input4,
+.secondary-button4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  border-radius: var(--br-9xs);
+  box-sizing: border-box;
+}
+.secondary-button4 {
+  width: 25%;
+  right: 0;
+  left: 75%;
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-13xl);
+}
+.input4 {
+  width: 83.82%;
+  right: 16.18%;
+  left: 0;
+  border: 1px solid var(--color-aliceblue);
+}
+.your-email4 {
+  position: absolute;
+  top: 34.38%;
+  left: 4.41%;
+  color: var(--color-aliceblue);
+  text-align: left;
+  opacity: 0.8;
+}
+.form-field17 {
+  position: absolute;
+  height: 30.77%;
+  width: 100%;
+  top: 69.23%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.subscribe-to-get4 {
+  position: absolute;
+  width: 80.88%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+}
+.form4 {
+  position: absolute;
+  height: 51.74%;
+  width: 36.27%;
+  top: 23.88%;
+  right: 7.33%;
+  bottom: 24.38%;
+  left: 56.4%;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--primary-text);
+}
+.about-us9,
+.contact9,
+.team4,
+.what-we-do12 {
+  position: absolute;
+  top: 89.52%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+  cursor: pointer;
+}
+.about-us9,
+.team4,
+.what-we-do12 {
+  top: 67.62%;
+}
+.about-us9,
+.team4 {
+  top: 45.71%;
+}
+.about-us9 {
+  top: 23.81%;
+}
+.home9,
+.our-team4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.home9 {
+  font-size: var(--font-size-base);
+  line-height: 160%;
+}
+.our-team4 {
+  height: 100%;
+  width: 20.22%;
+  right: 79.78%;
+  bottom: 0;
+}
+.events4,
+.projects4 {
+  position: absolute;
+  top: 45.71%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.projects4 {
+  top: 23.81%;
+}
+.more8 {
+  position: absolute;
+  height: 100%;
+  width: 14.21%;
+  top: 0;
+  right: 41.53%;
+  bottom: 0;
+  left: 44.26%;
+}
+.linkdin4,
+.twitter4 {
+  position: absolute;
+  top: 89.52%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.twitter4 {
+  top: 67.62%;
+}
+.connect8,
+.links4 {
+  position: absolute;
+  height: 100%;
+  width: 17.49%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 82.51%;
+}
+.links4 {
+  height: 52.24%;
+  width: 24.4%;
+  top: 23.88%;
+  right: 53.13%;
+  bottom: 23.88%;
+  left: 22.47%;
+  font-size: var(--font-size-sm);
+}
+.footer4,
+.primary-button1 {
+  position: absolute;
+  top: 1308px;
+  left: 0;
+  width: 1500px;
+  height: 402px;
+  color: var(--color-white);
+}
+.primary-button1 {
+  top: 411.1px;
+  left: 302.9px;
+  border-radius: var(--br-9xs);
+  background-color: var(--yellow);
+  backdrop-filter: blur(80px);
+  width: 178.2px;
+  height: 53.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-13xl);
+  box-sizing: border-box;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.first-name1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 160%;
+  display: inline-block;
+  width: 62.9px;
+  height: 20.1px;
+  opacity: 0.6;
+}
+.line1 {
+  position: absolute;
+  top: 59.7px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 386.7px;
+  height: 1px;
+}
+.form-field18,
+.last-name1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 385.7px;
+  height: 60.2px;
+}
+.last-name1 {
+  line-height: 160%;
+  display: inline-block;
+  width: 60.8px;
+  height: 20.1px;
+  opacity: 0.6;
+}
+.email-id,
+.form-field19 {
+  position: absolute;
+  top: 0;
+  left: 419.3px;
+  width: 385.7px;
+  height: 60.2px;
+}
+.email-id {
+  left: 0;
+  line-height: 160%;
+  display: inline-block;
+  width: 46.1px;
+  height: 20.1px;
+  opacity: 0.6;
+}
+.form-field20,
+.subject {
+  position: absolute;
+  top: 94.1px;
+  left: 0;
+  width: 385.7px;
+  height: 60.2px;
+}
+.subject {
+  top: 0;
+  line-height: 160%;
+  display: inline-block;
+  width: 43px;
+  height: 20.1px;
+  opacity: 0.6;
+}
+.form-field21 {
+  position: absolute;
+  top: 94.1px;
+  left: 419.3px;
+  width: 385.7px;
+  height: 60.2px;
+}
+.message,
+.type-your-messege {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 160%;
+  display: inline-block;
+  width: 52.4px;
+  height: 20.1px;
+  opacity: 0.6;
+}
+.type-your-messege {
+  top: 45.4px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  width: 144.6px;
+  height: 27.5px;
+  opacity: 0.3;
+}
+.text-area10 {
+  position: absolute;
+  top: 23.8px;
+  left: -0.5px;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 806px;
+  height: 165.9px;
+}
+.form-field22 {
+  top: 188.1px;
+  left: 0;
+  width: 805px;
+  height: 189.2px;
+}
+.bg14,
+.form-field22,
+.form5 {
+  position: absolute;
+}
+.form5 {
+  top: 737px;
+  left: 347px;
+  width: 805px;
+  height: 465px;
+  font-size: var(--font-size-xs);
+}
+.bg14 {
+  top: 0;
+  left: 0;
+  background-color: #eab1de;
+  width: 1500px;
+  height: 584px;
+}
+.georgetown-pulau-pinang {
+  position: absolute;
+  top: 0;
+  left: 0.5px;
+  line-height: 160%;
+  display: inline-block;
+  width: 302px;
+}
+.follow-us {
+  top: 84px;
+  font-size: var(--font-size-9xl);
+  line-height: 160%;
+  color: var(--primary-text);
+}
+.address,
+.follow-us,
+.office {
+  position: absolute;
+  left: 0;
+}
+.address {
+  top: 160px;
+  width: 302.5px;
+  height: 129px;
+  color: var(--secondary-text);
+}
+.office {
+  top: 0;
+  line-height: 160%;
+}
+.address1 {
+  position: absolute;
+  top: 124px;
+  left: 0.5px;
+  width: 76px;
+  height: 45px;
+  font-size: var(--font-size-9xl);
+}
+.line5 {
+  position: absolute;
+  top: 91.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--border);
+  box-sizing: border-box;
+  width: 326px;
+  height: 1px;
+}
+.lets-talk {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-9xl);
+  line-height: 160%;
+}
+.div1,
+.lynjobgmailcom {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  line-height: 28px;
+}
+.lynjobgmailcom {
+  left: 198.5px;
+}
+.contact-details,
+.info1 {
+  position: absolute;
+  top: 0;
+  left: 0.5px;
+  width: 366.5px;
+  height: 76px;
+}
+.contact-details {
+  top: 96px;
+  left: 782px;
+  width: 367px;
+  height: 289px;
+}
+.wed-love-to {
+  top: 0;
+  right: 0;
+  line-height: 120%;
+  display: inline-block;
+}
+.have-any-question,
+.text5,
+.wed-love-to {
+  position: absolute;
+  width: 480.5px;
+}
+.have-any-question {
+  top: 150px;
+  right: 0;
+  font-size: var(--font-size-xl);
+  line-height: 160%;
+  display: inline-block;
+  opacity: 0.7;
+}
+.text5 {
+  top: 147px;
+  right: 813.5px;
+  height: 246px;
+  font-size: 60px;
+}
+.contact-us1 {
+  position: absolute;
+  top: -19px;
+  left: 96px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.line-icon3,
+.section-title2 {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 72px;
+  height: 2px;
+}
+.section-title2 {
+  top: 115px;
+  left: 110px;
+  width: 19px;
+  height: 211px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-base);
+}
+.header1 {
+  position: absolute;
+  top: 67px;
+  left: 0;
+  width: 1500px;
+  height: 584px;
+  font-size: var(--font-size-xl);
+}
+.contact-us-child,
+.saly-24-icon {
+  position: absolute;
+  top: 459px;
+  right: 577px;
+  width: 140px;
+  height: 21px;
+}
+.saly-24-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.saly-24,
+.saly-25 {
+  position: absolute;
+  top: 195px;
+  left: 1001px;
+  width: 459px;
+  height: 456px;
+}
+.saly-25 {
+  top: 1105px;
+  left: 38px;
+  width: 300px;
+  height: 159.7px;
+}
+.job9,
+.lyn9 {
+  position: absolute;
+  top: 3.3%;
+  left: 0;
+  line-height: 44px;
+}
+.job9 {
+  height: 63.74%;
+  width: 50%;
+  top: 0;
+  left: 50%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-courgette);
+  display: inline-block;
+}
+.lyn-parent6 {
+  position: relative;
+  width: 98px;
+  height: 45.5px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.home10 {
+  color: var(--black);
+}
+.about-us10,
+.home10 {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.nav-link5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-xl);
+  gap: var(--gap-21xl);
+  color: var(--secondary-text);
+}
+.nav-button4,
+.navbar5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.nav-button4 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslateblue-300);
+  align-items: flex-start;
+  padding: var(--padding-xs) var(--padding-13xl);
+  cursor: pointer;
+  text-align: right;
+  color: var(--color-white);
+}
+.navbar5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  backdrop-filter: blur(30px);
+  border-bottom: 1px solid var(--color-gray-500);
+  align-items: center;
+  padding: var(--padding-lg) var(--padding-91xl);
+  gap: var(--gap-252xl);
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.contact-us {
+  position: relative;
+  background-color: var(--bg);
+  width: 100%;
+  height: 1710px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--primary-text);
+  font-family: var(--h2);
+}

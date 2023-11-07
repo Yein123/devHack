@@ -1,0 +1,136 @@
+.image-1-icon {
+  object-fit: cover;
+}
+.image-1-icon,
+.image-1-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1289px;
+  height: 745.8px;
+}
+.info-text-here {
+  position: relative;
+  font-weight: 300;
+}
+.titles-episodes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.time {
+  position: relative;
+  line-height: 100%;
+  font-weight: 300;
+  color: var(--color-white);
+}
+.info {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.fulltime,
+.progress {
+  position: absolute;
+  top: 252.5px;
+  left: 0;
+  border-radius: var(--br-xl);
+  height: 2px;
+}
+.fulltime {
+  width: calc(100% - 4px);
+  right: 4px;
+  background-color: var(--color-gainsboro-100);
+  opacity: 0.4;
+}
+.progress {
+  background-color: var(--color-white);
+  width: 593px;
+}
+.progress-bar {
+  align-self: stretch;
+  position: relative;
+  height: 2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.web-buttons {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+.left-side {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.controllers,
+.div {
+  display: flex;
+  align-items: center;
+}
+.controllers {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.div {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgba(8, 9, 13, 0), rgba(7, 9, 12, 0.9));
+  backdrop-filter: blur(2px);
+  height: 132.5px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-base) 40px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.bg12,
+.group-parent {
+  position: absolute;
+  top: 122px;
+  left: 99px;
+  width: 1289px;
+  height: 746px;
+}
+.bg12 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  width: 70px;
+  height: 70px;
+}
+.close-button,
+.cross-icon {
+  position: absolute;
+  top: 20.8px;
+  left: 20.8px;
+  width: 28.4px;
+  height: 28.4px;
+}
+.close-button {
+  top: 24px;
+  left: 1388px;
+  width: 70px;
+  height: 70px;
+}
+.video {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 990px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: #bbb;
+  font-family: var(--font-open-sans);
+}

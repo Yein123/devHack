@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --h2: Roboto;
+  --font-courgette: Courgette;
+  --font-inherit: inherit;
+  --font-radio-canada: "Radio Canada";
+  --font-cantata-one: "Cantata One";
+  --font-reem-kufi: "Reem Kufi";
+  --font-inter: Inter;
+  --font-simonetta: Simonetta;
+  --font-open-sans: "Open Sans";
+  --font-bruno-ace: "Bruno Ace";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-6xl: 25px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+  --font-size-21xl: 40px;
+  --font-size-7xl: 26px;
+  --h2-size: 48px;
+  --font-size-3xl: 22px;
+  --font-size-9xl: 28px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --bg: #fefdfc;
+  --color-gray-100: #2b2b2b;
+  --primary-text: #1d2130;
+  --black: #0b0706;
+  --color-gray-200: rgba(0, 0, 0, 0);
+  --color-gray-300: rgba(28, 28, 28, 0.8);
+  --color-gray-400: rgba(255, 255, 255, 0.55);
+  --color-gray-500: rgba(0, 0, 0, 0.4);
+  --color-white: #fff;
+  --color-darkslateblue-100: #4a4da7;
+  --color-darkslateblue-200: #3b459a;
+  --color-darkslateblue-300: #314077;
+  --secondary-text: #525560;
+  --color-black: #000;
+  --color-paleturquoise-100: rgba(189, 244, 237, 0.55);
+  --color-honeydew-100: rgba(211, 250, 224, 0.87);
+  --color-slategray: rgba(110, 113, 125, 0.8);
+  --color-aliceblue: rgba(235, 240, 249, 0.3);
+  --color-whitesmoke: #f9f9f9;
+  --border: #e5e5e5;
+  --color-gainsboro-100: #d9d9d9;
+  --color-lightseagreen-100: #57ada3;
+  --color-lightseagreen-200: #56ada3;
+  --color-darkkhaki: #b0ad5e;
+  --yellow: #f2c94c;
+
+  /* Gaps */
+  --gap-252xl: 271px;
+  --gap-21xl: 40px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-lg: 18px;
+  --padding-91xl: 110px;
+  --padding-xs: 12px;
+  --padding-13xl: 32px;
+  --padding-base: 16px;
+  --padding-xl: 20px;
+  --padding-8xl: 27px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-21xl: 40px;
+}
